@@ -8,7 +8,7 @@ ssh, telnet, nc, openssl, s_client, nma
 
 ## Solution
 
-we can send pass to lestener port by netcat command
+we can send pass to listener port by netcat command
 ```console
 bandit14@bandit:~$ echo "4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e" | nc localhost 30000
 Correct!

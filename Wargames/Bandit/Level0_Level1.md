@@ -12,7 +12,7 @@ ls command show that there is file in home directory "readme"
 bandit0@bandit:~$ ls
 readme
 ```
-lets see it
+Lets see it
 ```
 bandit0@bandit:~$ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1

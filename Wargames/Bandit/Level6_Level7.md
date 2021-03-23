@@ -11,7 +11,7 @@ The password for the next level is stored somewhere on the server and has all of
 ls, cd, cat, file, du, find, grep
 
 ## Solution
-ls command show nothing in home directory "inhere"
+ls command show nothing in home directory 
 ```console
 bandit6@bandit:~$ ls
 bandit6@bandit:~$ 

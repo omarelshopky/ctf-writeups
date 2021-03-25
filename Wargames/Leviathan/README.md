@@ -41,10 +41,17 @@ Leviathan’s levels are called leviathan0, leviathan1, … etc. and can be acce
 Data for the levels can be found in the homedirectories. You can look at /etc/leviathan_pass for the various level passwords.
 
 [Level 0](https://github.com/omarhesham2/CTFs/blob/main/Wargames/Leviathan/Level0.md)
+
 [Level 0 --> Level 1](https://github.com/omarhesham2/CTFs/blob/main/Wargames/Leviathan/Level0_Level1.md)
+
 [Level 1 --> Level 2](https://github.com/omarhesham2/CTFs/blob/main/Wargames/Leviathan/Level1_Level2.md)
+
 [Level 2 --> Level 3](https://github.com/omarhesham2/CTFs/blob/main/Wargames/Leviathan/Level2_Level3.md)
+
 [Level 3 --> Level 4](https://github.com/omarhesham2/CTFs/blob/main/Wargames/Leviathan/Level3_Level4.md)
+
 [Level 4 --> Level 5](https://github.com/omarhesham2/CTFs/blob/main/Wargames/Leviathan/Level4_Level5.md)
+
 [Level 5 --> Level 6](https://github.com/omarhesham2/CTFs/blob/main/Wargames/Leviathan/Level5_Level6.md)
+
 [Level 6 --> Level 7](https://github.com/omarhesham2/CTFs/blob/main/Wargames/Leviathan/Level6_Level7.md)

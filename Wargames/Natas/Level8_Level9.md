@@ -12,21 +12,30 @@
   2. reverse the string
   3. convert from binary to hexa
 * So we must do it in reverse lets convert it from hexa to binary (PHP)
-```
+```php
 <?php
 echo hex2bin("3d3d516343746d4d6d6c315669563362");
 ?>
 ```
 * Reverse the String (Python)
-```
+```python
 code = " ==QcCtmMml1ViV3b"[::-1]
 print(code)
 ```
 * Decode base64 (Linux command)
-```
+```bash
 echo b3ViV1lmMmtCcQ==  | base64 -d
 ```
 * Submit it the password will appear
+
+
+*you can decode it in sample way as follow*
+```php
+<?php
+  encodedSecret = "3d3d516343746d4d6d6c315669563362";
+  echo base64_decode(strrev(hex2bin($encodedSecret)));
+?>
+```
 
 ## Password
 > W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl  

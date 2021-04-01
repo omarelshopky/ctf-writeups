@@ -1,10 +1,10 @@
-#Challenge Name:
- (*This is Sparta*)[https://cybertalents.com/challenges/web/this-is-sparta]
+# Challenge Name:
+ [*This is Sparta*](https://cybertalents.com/challenges/web/this-is-sparta)
  
 # Challenge Description
 Morning has broken today they're fighting in the shade when arrows blocked the sun they fell tonight they dine in hell
 
-Link: (http://35.193.45.56/sparta/)[http://35.193.45.56/sparta/]
+Link: [http://35.193.45.56/sparta/](http://35.193.45.56/sparta/)
 
 ## Answer
 * Open Inspector (ctrl + shift + c)

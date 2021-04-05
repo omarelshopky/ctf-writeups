@@ -1,10 +1,9 @@
 # Challenge Name:
- [*who am i?*](https://cybertalents.com/challenges/cryptography/hash3rror)
+ [*who am i?*](https://cybertalents.com/challenges/web/who-am-i)
  
 # Challenge Description
 Do not Start a fight you can not stop it
 
-HASH:77be5d24ed2e3e590045e1d6o7e84i50d2799c19f48ede46804a8734e287df120f 
 
 Link: [http://34.76.107.218/whoami/](http://34.76.107.218/whoami/)
 

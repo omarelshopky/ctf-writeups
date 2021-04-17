@@ -22,20 +22,33 @@ cat monaliza.mem
 ```sh
 strings monaliza.mem | grep "Flag{"
 ```
+* If we try this flag the website say that it is wrong so, use Volatility to scan memory image
+* For performing analysis using Volatility we need to first set a profile to tell Volatility what operating system the dump came from
+```sh
+./vol.py imageinfo -f monaliza.mem
+```
+* View all running process when the memory dump was taken
+```sh
+./vol.py --profile=WinXPSP2x86 pslist -f ~/Downloads/monaliza.mem 
+```
+* He was using microsoft paint during memory image so lets take dump to this process to scan it
+```sh
+./vol.py --profile=WinXPSP2x86 -f ~/Downloads/monaliza.mem memdump -p 800 -D .
+```
+* Change file extintion from dmp to data so we can open it with gimp
+```sh
+mv 800.dmp 800.data
+```
+* Use gimp to open the file
+```sh
+gimp 800.data
+```
+* Change offset, width and height until you see readable text
+> Offset = 65913
+> Width = 737
+> Height = 6446
 * You got the Flag
 
 
  ## The Flag
- > Flag{i_w!ll_d3l3t3_my_s3cret}
-
-
-
-Stegsolve Interactively transform images, view color schemes separately
-
-SonicVisualiser Visualizing audio files in waveform, display spectrograms
-
-DeepSound Audio stego tool that was used in Mr. Robot series. Windows tool but could be run in wine
-
-Steghide tool to encrypt and hide data.
-sox tool . 
-volatility
+ > Flag{P@!nting_i5_4wes0m3}

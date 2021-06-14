@@ -5,8 +5,8 @@
 We got this letters and numbers and don't understand them. Can you? R[corrupted]BR3tCNDUzXzYxWDdZXzRSfQ==
 
 ## Answer
-* The equal sign implies that we have a base64 encode, but there is some bits are corrupted
-* Calculate how many char in this code, it will be 26(without corrupted;) but base64 encoding must be multple of 4 so there is 2 letters missing
+* The equal sign implies that we have a base64 encode, but there are some bits that are corrupted
+* Calculate how many char in this code, it will be 26(without corrupted;) but base64 encoding must be multiple  of 4 so there are 2 letters missing
 * By using Brute Force we can write a bash script to generate all possible code
 ```sh
 #!/bin/bash
@@ -25,7 +25,7 @@ done
 ```sh
 bash script.sh
 ```
-* Use base64 tool in linux to decode all the list we have generated previously
+* Use base64 tool in Linux to decode all the list we have generated previously
 ```sh
 base64 -d list.txt
 ```

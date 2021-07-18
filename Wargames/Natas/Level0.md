@@ -7,7 +7,8 @@
 **URL:**      http://natas0.natas.labs.overthewire.org
 
 ## Solution
-Just open URL and login
+* Open inspect element (ctrl + shift + c) in Firefox
+* The password in body tag in a div with id=content
 
 ## Natas1 Password
 > gtVrDuiDfck831PqWsLEZy5gyDz1clto

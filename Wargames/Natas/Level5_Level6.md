@@ -2,6 +2,8 @@
 
 **Username:** natas6
 
+**Password:** aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 
+
 **URL:**      http://natas6.natas.labs.overthewire.org
 
 ## Solution
@@ -11,6 +13,6 @@
 * Change it to 1 (we are login)
 * The pass will appear 
 
-## Password
-> aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 
+## Natas7 Password
+> 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
 

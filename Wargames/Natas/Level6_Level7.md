@@ -2,6 +2,8 @@
 
 **Username:** natas7
 
+**Password:** 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 
+
 **URL:**      http://natas7.natas.labs.overthewire.org
 
 ## Solution
@@ -10,6 +12,6 @@
 * Its appear as white page, if we open inspect there is a code written as comment
 * Use it to get the password 
 
-## Password
-> 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 
+## Natas8 Password
+> DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe  
 

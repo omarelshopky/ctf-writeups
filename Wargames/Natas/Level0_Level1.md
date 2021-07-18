@@ -8,7 +8,7 @@
 
 ## Solution
 * Open inspect element (ctrl + shift + c) in Firefox
-* The password in body tag in a div with id=content
+* The password in body tag in a div with id=content 
 
 ## Natas2 Password
 > ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi

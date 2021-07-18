@@ -2,6 +2,8 @@
 
 **Username:** natas14
 
+**Password:** Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1
+
 **URL:**      http://natas14.natas.labs.overthewire.org
 
 ## Solution
@@ -24,4 +26,4 @@
 * You got the password!!
 
 ## Password
-> Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1  
+>   

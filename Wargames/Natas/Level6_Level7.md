@@ -7,10 +7,9 @@
 **URL:**      http://natas7.natas.labs.overthewire.org
 
 ## Solution
-* Open inspect, its take code from textbox put it in variable called "secret"
-* Click "View sourcecode" open page show that he include file to check code so lets see it 
-* Its appear as white page, if we open inspect there is a code written as comment
-* Use it to get the password 
+* Open inspect, there is to buttons with hyperlink and a comment say that password in /etc/natas_webpass/natas8
+* Click "Home", its php file take data from url lets change page=home to our target
+* Here is the password
 
 ## Natas8 Password
 > DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe  

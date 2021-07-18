@@ -2,6 +2,8 @@
 
 **Username:** natas12
 
+**Password:** EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3 
+
 **URL:**      http://natas12.natas.labs.overthewire.org
 
 ## Solution
@@ -65,5 +67,5 @@ echo $cookies;
 * This is the password
 
 
-## Password
-> EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3  
+## Natas13 Password
+>  jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY

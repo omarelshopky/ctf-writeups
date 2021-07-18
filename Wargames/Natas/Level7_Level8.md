@@ -2,6 +2,8 @@
 
 **Username:** natas8
 
+**Password:** DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
+
 **URL:**      http://natas8.natas.labs.overthewire.org
 
 ## Solution
@@ -9,6 +11,6 @@
 * Click "Home", its php file take data from url lets change page=home to our target
 * Here is the password
 
-## Password
-> DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe  
+## Natas9 Password
+> W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
 

@@ -7,10 +7,12 @@
 **URL:**      http://natas5.natas.labs.overthewire.org
 
 ## Solution
-  *Access disallowed. You are visiting from "" while authorized users should come only from "http://natas5.natas.labs.overthewire.org/"*
-* This massege from website implies that it takes requests to access
-* Use Burbsuite to send this request after that pass will appear
-* 
+* Open inspect, there's not anything exciting
+* The website say that we are not login so lets see requests
+* Use Burbsuite its show that in cookie loggedin takes 0 (we are not login)
+* Change it to 1 (we are login)
+* The pass will appear 
+
 ## Natas6 Password
 > aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 
 

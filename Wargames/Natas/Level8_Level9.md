@@ -2,6 +2,8 @@
 
 **Username:** natas9
 
+**Password:** W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
+
 **URL:**      http://natas9.natas.labs.overthewire.org
 
 ## Solution
@@ -37,6 +39,6 @@ echo b3ViV1lmMmtCcQ==  | base64 -d
 ?>
 ```
 
-## Password
-> W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl  
+## Natas10 Password
+>  nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
 

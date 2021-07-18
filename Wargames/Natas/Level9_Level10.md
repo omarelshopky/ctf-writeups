@@ -2,6 +2,8 @@
 
 **Username:** natas10
 
+**Password:** nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu 
+
 **URL:**      http://natas10.natas.labs.overthewire.org
 
 ## Solution
@@ -14,6 +16,6 @@ grep -i ;cat /etc/natas_webpass/natas10; dictionary.txt
 * That's the password
 
 
-## Password
-> nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu  
+## Natas11 Password
+>  U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
 

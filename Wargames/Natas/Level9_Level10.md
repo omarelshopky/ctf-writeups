@@ -7,11 +7,12 @@
 **URL:**      http://natas10.natas.labs.overthewire.org
 
 ## Solution
-* Open inspect, there is textbox take a code and button send us to page contain source code lets see it
-* In this page page it is obvious that what we will write in previous textbox will be inject in linux command "grep -i $code dictionary.txt"
-* So we can inject command to get our target by write ";cat /etc/natas_webpass/natas10;" in textbox so the command will be as follow:
+* Open inspect, there is textbox take a code and button send us to a page contain source code lets see it
+* In this page page it is obvious that what we will write in previous textbox will be inject in linux command "grep -i $code dictionary.txt" after filter {&|;}
+* We can't use prvious code as they filtered some characters so think another way
+* What if we grep from pass file and comment the rest
 ```bash
-grep -i ;cat /etc/natas_webpass/natas10; dictionary.txt
+grep -i c /etc/natas_webpass/natas11 # dictionary.txt
 ```
 * That's the password
 

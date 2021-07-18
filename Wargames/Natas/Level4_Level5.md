@@ -2,6 +2,8 @@
 
 **Username:** natas5
 
+**Password:** iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq 
+
 **URL:**      http://natas5.natas.labs.overthewire.org
 
 ## Solution
@@ -9,6 +11,6 @@
 * This massege from website implies that it takes requests to access
 * Use Burbsuite to send this request after that pass will appear
 * 
-## Password
-> iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq 
+## Natas6 Password
+> aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 
 

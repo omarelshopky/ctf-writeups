@@ -2,6 +2,8 @@
 
 **Username:** natas13
 
+**Password:** jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY  
+
 **URL:**      http://natas13.natas.labs.overthewire.org
 
 ## Solution
@@ -16,5 +18,5 @@
 * Upload the script then intercept requests with burp to change filename ext to php to execute script onclick
 * You got the password!!
 
-## Password
-> jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY  
+## Natas14 Password
+> Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1

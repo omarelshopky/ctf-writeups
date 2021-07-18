@@ -7,10 +7,9 @@
 **URL:**      http://natas4.natas.labs.overthewire.org
 
 ## Solution
-* Open inspect element (ctrl + shift + c) in Firefox
-* "No more information leaks!! Not even Google will find it this time..." you can find everything in google so its mean [robots.txt file](http://www.robotstxt.org/)
-* Open it display that directory "/s3cr3t/" disallowed for search engines so Lets open it
-* The pass in users.txt file
+  *Access disallowed. You are visiting from "" while authorized users should come only from "http://natas5.natas.labs.overthewire.org/"*
+* This massege from website implies that it takes requests to access
+* Use Burbsuite to send this request after that pass will appear
 
 
 ## Natas5 Password

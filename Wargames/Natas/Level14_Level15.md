@@ -26,7 +26,6 @@ natas16" AND password LIKE BINARY "{char}%
 * Write python script brute-force requests to get the password consist of 32 chars (like all natas passwords)
 ```python
 import requests
-from bs4 import BeautifulSoup
 import string
 
 CHARS = list(string.ascii_lowercase + string.ascii_uppercase + "0123456789")

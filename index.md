@@ -1,16 +1,17 @@
 # Welcome to DarkKnight's CTF Writeups
 ## You can find here CTF writeups from various sites and categories
 
-- [CyberTalents](/CyberTalents)
-  - [Cryptography](/CyberTalents/Cryptography)
-  - [Digital Forensic](/CyberTalents/Digital_Forensic)
-  - [Malware Reverse Engineering](/CyberTalents/Malware_Reverse_Engineering)
-  - [Network Security](/CyberTalents/Network_Security)
-  - [Reverse Engineering](/CyberTalents/Reverse_Engineering)
-  - [Web Security](/CyberTalents/Web_Security)
-- [OverTheWire Wargames](/Wargames)
-  - [Bandit](/Wargames/Bandit) 
-  - [Leviathan](/Wargames/Leviathan)
-  - [Natas](/Wargames/Natas)
+- [CyberTalents](/CTF_Writeups/CyberTalents)
+  - [Cryptography](/CTF_Writeups/CyberTalents/Cryptography)
+  - [Digital Forensic](/CTF_Writeups/CyberTalents/Digital_Forensic)
+  - [Malware Reverse Engineering](/CTF_Writeups/CyberTalents/Malware_Reverse_Engineering)
+  - [Network Security](/CTF_Writeups/CyberTalents/Network_Security)
+  - [Reverse Engineering](/CTF_Writeups/CyberTalents/Reverse_Engineering)
+  - [Web Security](/CTF_Writeups/CyberTalents/Web_Security)
+  
+- [OverTheWire Wargames](/CTF_Writeups/Wargames)
+  - [Bandit](/CTF_Writeups/Wargames/Bandit) 
+  - [Leviathan](/CTF_Writeups/Wargames/Leviathan)
+  - [Natas](/CTF_Writeups/Wargames/Natas)
 
 

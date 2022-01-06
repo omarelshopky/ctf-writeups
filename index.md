@@ -1,5 +1,5 @@
 # Welcome to DarkKnight's CTF Writeups
-## You can find here CTF writeups from various sites and categories
+## You can find here writeups from various sites and categories
 
 - [**CyberTalents**](/CTF_Writeups/CyberTalents)
   - [Cryptography](/CTF_Writeups/CyberTalents/Cryptography)

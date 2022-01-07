@@ -1,12 +1,15 @@
-# Challenge Name:
+# CyberTalents
+## Web Security
+
+### Challenge Name:
  [* Searching for the cookie*](https://cybertalents.com/challenges/web/searching-for-the-cookie)
  
-# Challenge Description
+### Challenge Description
 simple search website we need to know which cookie to eat ;)
 
 Link: [http://34.77.37.110/searching-cookie/](http://34.77.37.110/searching-cookie/)
 
-## Answer
+### Answer
 * Try write "<script>alert(2)</script>" in the textbox nothing will happen
 * Open source code in new tab (ctrl + u)
 ```html
@@ -23,5 +26,5 @@ Link: [http://34.77.37.110/searching-cookie/](http://34.77.37.110/searching-cook
 * You got the Flag!!
 
 
- ## The Flag
+### The Flag
  > coolcookie112

@@ -1,12 +1,15 @@
-# Challenge Name:
+# CyberTalents
+## Web Security
+
+### Challenge Name:
  [*bean*](https://cybertalents.com/challenges/web/bean)
  
-# Challenge Description
+### Challenge Description
 Come back home Mr Bean .
 
 Link: [http://52.28.216.196/bean/](http://52.28.216.196/bean/)
 
-## Answer
+### Answer
 * Use Dirsearch tool to bruteforce directory of 'http://52.28.216.196/bean/' 
 ```bash
 python3 dirsearch.py -u http://52.28.216.196/bean/
@@ -23,5 +26,5 @@ python3 dirsearch.py -u http://52.28.216.196/bean/
 * You got the password!!
 
 
- ## The Flag
+### The Flag
  > FLAG{Nginx_nOt_aLWays_sEcUre_bY_The_waY}

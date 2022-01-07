@@ -1,12 +1,15 @@
-# Challenge Name:
+# CyberTalents
+## Web Security
+
+### Challenge Name:
  [*The Restricted Sessions*](https://cybertalents.com/challenges/web/the-restricted-sessions)
  
-# Challenge Description
+### Challenge Description
 Flag is restricted to logged users only , can you be one of them.
 
 Link: [http://34.77.37.110/restricted-sessions/](http://34.77.37.110/restricted-sessions/)
 
-## Answer
+### Answer
 * Open inspect from (ctrl + shift + c) then scroll down there is a script compare session id with phpsessid
 ```
 <script type="text/javascript">
@@ -49,5 +52,5 @@ GET /restricted-sessions/getcurrentuseringo.php?PHPSESSID=iuqwhe23eh23kej2hd2u3h
 * You got the Flag!!
 
 
- ## The Flag
+### The Flag
  > sessionareawesomebutifitsecure 

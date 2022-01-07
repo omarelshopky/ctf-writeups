@@ -1,12 +1,15 @@
-# Challenge Name:
+# CyberTalents
+## Web Security
+
+### Challenge Name:
  [*Admin has the power*](https://cybertalents.com/challenges/web/admin-has-the-power)
  
-# Challenge Description
+### Challenge Description
 Administrators only has the power to see the flag , can you be one ?
 
 Link: [http://35.193.45.56/adminpower/](http://35.193.45.56/adminpower/)
 
-## Answer
+### Answer
 * Open Inspector (ctrl + shift + c)
 * Open head tag there is details about user
 ```
@@ -18,5 +21,5 @@ Link: [http://35.193.45.56/adminpower/](http://35.193.45.56/adminpower/)
 * Reload the page
 * You got the password!!
 
- ## The Flag
+### The Flag
  > hiadminyouhavethepower 

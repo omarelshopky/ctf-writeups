@@ -1,13 +1,16 @@
-# Challenge Name:
+# CyberTalents
+## Web Security
+
+### Challenge Name:
  [*Cool Name Effect*](https://cybertalents.com/challenges/web/cool-name-effect)
  
-# Challenge Description
+### Challenge Description
 Webmaster developed a simple script to do cool effects on your name, but his code not filtering the inputs correctly execute javascript alert and prove it.
 
 
 Link: [http://34.77.37.110/cool-effect/](http://34.77.37.110/cool-effect/)
 
-## Answer
+### Answer
 * Try inject javascript code in the textbox
 ```
 <script>alert()</script>
@@ -19,5 +22,5 @@ Link: [http://34.77.37.110/cool-effect/](http://34.77.37.110/cool-effect/)
 * You got the Flag!!
 
 
- ## The Flag
+### The Flag
  > ciyypjz

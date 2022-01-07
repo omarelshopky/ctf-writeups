@@ -1,12 +1,15 @@
-# Challenge Name:
+# CyberTalents
+## Web Security
+
+### Challenge Name:
  [*Maximum Courage*](https://cybertalents.com/challenges/web/maximum-courage)
  
-# Challenge Description
+### Challenge Description
 Max prefers to learn by practicing and not just reading all day, so he set up a webserver and hopes it stays secret, can you prove it has a weakness?
 
 Link: [http://3.126.138.80/maximum/](http://3.126.138.80/maximum/)
 
-## Answer
+### Answer
 * Use Dirsearch tool to bruteforce directory of 'http://3.126.138.80/maximum/' 
 ```bash
 python3 dirsearch.py -u http://3.126.138.80/maximum/
@@ -26,5 +29,5 @@ cat /home/darkknight/Desktop/repo/0-190de370286e98dda6813ac9c05f679ad60d9f9c/fla
 * You got the Flag!!
 
 
- ## The Flag
+### The Flag
  > be607453caada6a05d00c0ea0057f733

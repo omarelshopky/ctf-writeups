@@ -1,13 +1,16 @@
-# Challenge Name:
+# CyberTalents
+## Web Security
+
+## Challenge Name:
  [*Encrypted Database*](https://cybertalents.com/challenges/web/encrypted-database)
  
-# Challenge Description
+## Challenge Description
 The company hired an inexperienced developer, but he told them he hided the database and have it encrypted so the website is totally secure, can you prove that he is wrong ??
 
 
 Link: [http://34.77.37.110//encrypted-database/](http://34.77.37.110//encrypted-database/)
 
-## Answer
+### Answer
 * View Page Source tells us that there are two directories pages/ contain content of the pages and secret-admin/
 * Go to [secret-admin folder](http://34.77.37.110//encrypted-database/secret-admin/) and View Page Source
 * There is hidden input field contain reference to a database
@@ -30,5 +33,5 @@ Possible Hashs:
 * You got the Flag!!
 
 
- ## The Flag
+### The Flag
  > badboy

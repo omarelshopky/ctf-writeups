@@ -1,12 +1,15 @@
-# Challenge Name:
+# CyberTalents
+## Web Security
+
+### Challenge Name:
  [*This is Sparta*](https://cybertalents.com/challenges/web/this-is-sparta)
  
-# Challenge Description
+### Challenge Description
 Morning has broken today they're fighting in the shade when arrows blocked the sun they fell tonight they dine in hell
 
 Link: [http://35.193.45.56/sparta/](http://35.193.45.56/sparta/)
 
-## Answer
+### Answer
 * Open Inspector (ctrl + shift + c)
 * Scroll down there is script element which is ASCII conveted to Hexa:
 ```html
@@ -40,5 +43,5 @@ function check(){
  * You Got the Flag!!
  
  
- ## The Flag
+### The Flag
  > J4V4_Scr1Pt_1S_Aw3s0me

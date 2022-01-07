@@ -4,6 +4,16 @@ You can find here writeups from various sites and categories
 ______________________________________________________
 <br>
 
+## Recently Solved
+**Site:** *OverTheWire Waregames*
+**Category:** *Natas* 
+**Name:** [*Level15 --> Level16*](https://omarelshopky.github.io/CTF_Writeups/Wargames/Natas/Level15_Level16/)
+**Date:** *Sep 29, 2021*
+
+______________________________________________________
+<br>
+
+
 ## Available Sites
 - [**CyberTalents**](/CTF_Writeups/CyberTalents)
   - [Cryptography](/CTF_Writeups/CyberTalents/Cryptography)

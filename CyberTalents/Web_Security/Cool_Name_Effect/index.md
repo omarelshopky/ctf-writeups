@@ -16,9 +16,11 @@ Link: [http://34.77.37.110/cool-effect/](http://34.77.37.110/cool-effect/)
 <script>alert()</script>
 ```
 * The result was "<forbidden>alert()" which mean he filtered "script" so try in another word
+ 
 ```
 <SCRIPT>alert()</SCRIPT>
 ```
+ 
 * You got the Flag!!
 
 

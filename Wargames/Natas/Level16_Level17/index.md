@@ -75,7 +75,7 @@ for i in range(32):
 > --batch         Never ask for user input, use the default behaviour
 
 
-** You got the password!!
+* You got the password!!
 
 ### Natas18 Password
 > xvKIqDjy4OPv7wCRgDlmj0pFsCsDjhdP

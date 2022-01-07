@@ -1,13 +1,17 @@
-# Challenge Name:
+# CyberTalents
+## Cryptography
+<br>
+
+### Challenge Name:
  [*Hash3rror*](https://cybertalents.com/challenges/cryptography/hash3rror)
  
-# Challenge Description
+### Challenge Description
 we got this corrupted hash password from a Pcap file with a note (password = sha-1(hash-result)).
 
 HASH:77be5d24ed2e3e590045e1d6o7e84i50d2799c19f48ede46804a8734e287df120f 
 
 
-## Answer
+#### Answer
 * We have hash code and note tell us that password = sha1(hash-result), so we need to decrypt hash code
 * Remove "i" and "o" from hash (becouse hash must contain only hexa char 0 -> f) now we have
 > 77be5d24ed2e3e590045e1d67e8450d2799c19f48ede46804a8734e287df120f 
@@ -30,5 +34,5 @@ echo -n s3cr3tpassword | sha1sum
 * You got the password!!
 
 
- ## The Flag
+ #### The Flag
  > 83874343435092cb681c0d558a84bfeb389c32ed  

@@ -1,12 +1,16 @@
-# Challenge Name:
+# CyberTalents
+## Digital Forensic
+<br>
+
+### Challenge Name:
  [*Keep it Simple*](https://cybertalents.com/challenges/forensics/keep-it-simple)
  
-# Challenge Description
+### Challenge Description
 The answer is simple
 
 Link: [http://35.225.187.108/Keep_it_Simple/](http://35.225.187.108/Keep_it_Simple/)
 
-## Answer
+#### Answer
 * Open Inspector (ctrl + shift + c)
 * Notice that there are two images with name 'the_eye.jpeg' one in img directory and the other in /www/html/ 
 ```html
@@ -103,5 +107,5 @@ GPS Position                    : 0 deg 0' 0.00" N, 0 deg 0' 0.00"
 ```
 * You got the Flag, it is in the meta data of index.jpeg
 
- ## The Flag
+ #### The Flag
  > S1mpl3sty_i$_th_@nswer

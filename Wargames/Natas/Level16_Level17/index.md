@@ -47,18 +47,31 @@ for i in range(32):
 ```
 * Here is an explaination of each flag:
 > -u              URL
+> 
 > --auth-type     HTTP authentication
+> 
 > --auth-cred     HTTP authentication credentials (name:password)
+> 
 > --data          Data string to be sent
+> 
 > --level         Number of checks to be performed.  (Range is 1 to 5. Default is 1.)
+> 
 > --risk          Types of payloads to use. Higher numbers could cause problems for the server. (Range is 1 to 3.  Default is 1.)
+> 
 > --technique     T is for Time-based attacks
+> 
 > --threads       Max number of concurrent HTTP(s) requests
+> 
 > --dbms          DataBase Management System 
-> -D              Database name        
+> 
+> -D              Database name 
+>        
 > -T              Table name
+> 
 > -C              Column name(s)
+> 
 > --dump          Dump DBMS database table entries
+> 
 > --batch         Never ask for user input, use the default behaviour
 
 

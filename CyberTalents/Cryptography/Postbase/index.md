@@ -1,6 +1,5 @@
 # CyberTalents
 ## Cryptography
-<br>
 
 ### Challenge Name:
  [*Postbase*](https://cybertalents.com/challenges/cryptography/postbase)
@@ -8,7 +7,7 @@
 ### Challenge Description
 We got this letters and numbers and don't understand them. Can you? R[corrupted]BR3tCNDUzXzYxWDdZXzRSfQ==
 
-#### Answer
+### Answer
 * The equal sign implies that we have a base64 encode, but there are some bits that are corrupted
 * Calculate how many char in this code, it will be 26(without corrupted;) but base64 encoding must be multiple  of 4 so there are 2 letters missing
 * By using Brute Force we can write a bash script to generate all possible code
@@ -36,5 +35,5 @@ base64 -d list.txt
 * You got the Flag!!
 
 
- #### The Flag
+### The Flag
  > FLAG{B453_61X7Y_4R}  

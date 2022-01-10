@@ -8,6 +8,8 @@ You will encounter many situations in which you have no idea what you are suppos
 
 [Level 0](/CTF_Writeups/Wargames/Bandit/Level0)
 
+[Level 0 --> Level 1](/CTF_Writeups/Wargames/Bandit/Level0_Level1)
+  
 [Level 1 --> Level 2](/CTF_Writeups/Wargames/Bandit/Level1_Level2)
 
 [Level 2 --> Level 3](/CTF_Writeups/Wargames/Bandit/Level2_Level3)

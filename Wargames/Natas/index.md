@@ -9,6 +9,8 @@ Each level has access to the password of the next level. Your job is to somehow 
 
 [Level 0](/CTF_Writeups/Wargames/Natas/Level0)
 
+[Level 0 --> Level 1](/CTF_Writeups/Wargames/Natas/Level0_Level1)
+
 [Level 1 --> Level 2](/CTF_Writeups/Wargames/Natas/Level1_Level2)
 
 [Level 2 --> Level 3](/CTF_Writeups/Wargames/Natas/Level2_Level3)

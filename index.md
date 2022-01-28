@@ -5,13 +5,13 @@ ______________________________________________________
 <br>
 
 ## Recently Solved
-**Site:** *OverTheWire Waregames*
+**Site:** *Crackmes*
 
-**Category:** *Natas* 
+**Category:** *Windows-Java* 
 
-**Name:** [*Level16 --> Level17*](https://omarelshopky.github.io/CTF_Writeups/Wargames/Natas/Level16_Level17/)
+**Name:** [*CrackMe1-0hWhite*](/CTF_Writeups/Crackmes/Windows/Java/CrackMe1-0hWhite)
 
-**Date:** *Jan 7, 2022*
+**Date:** *Jan 28, 2022*
 
 ______________________________________________________
 <br>

@@ -64,6 +64,7 @@ public class eahUaRpTUmfhN {
 }
 ```
 * The decompiling process randomizes the variables and functions names so let's rename them to better understand the code
+  
 ```java
 package me.ohwhite.crackme1;
 
@@ -100,15 +101,18 @@ public class Main {
   }
 }
 ```
+
 * As we can see, at first he built two lists one to hold the output's strings, and the other for hold integers with adding '5256' to it at the beginning *initAdd()*
 * Then he takes the user input, compares it with the first element in the numbers list which is '5256'
 * Try it as a password
+  
 ```sh
 Enter an 8 digit code:
 5256
 You have successfully logged in!
 Press any key to continue . . .
 ```
+
 * You got the password!!
 
 

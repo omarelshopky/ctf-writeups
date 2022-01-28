@@ -64,7 +64,8 @@ public class eahUaRpTUmfhN {
 }
 ```
 * The decompiling process randomizes the variables and functions names so let's rename them to better understand the code
-  
+
+
 ```java
 package me.ohwhite.crackme1;
 

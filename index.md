@@ -9,7 +9,7 @@ ______________________________________________________
 
 **Category:** *Windows-Java* 
 
-**Name:** [*CrackMe1-0hWhite*](/CTF_Writeups/Crackmes/Windows/Java/CrackMe1-0hWhite)
+**Name:** [*CrackMe1-0hWhite*](/ctf-writeups/Crackmes/Windows/Java/CrackMe1-0hWhite)
 
 **Date:** *Jan 28, 2022*
 
@@ -18,22 +18,22 @@ ______________________________________________________
 
 
 ## Available Sites
-- [**CyberTalents**](/CTF_Writeups/CyberTalents)
-  - [Cryptography](/CTF_Writeups/CyberTalents/Cryptography)
-  - [Digital Forensic](/CTF_Writeups/CyberTalents/Digital_Forensic)
-  - [Malware Reverse Engineering](/CTF_Writeups/CyberTalents/Malware_Reverse_Engineering)
-  - [Network Security](/CTF_Writeups/CyberTalents/Network_Security)
-  - [Reverse Engineering](/CTF_Writeups/CyberTalents/Reverse_Engineering)
-  - [Web Security](/CTF_Writeups/CyberTalents/Web_Security)
+- [**CyberTalents**](/ctf-writeups/CyberTalents)
+  - [Cryptography](/ctf-writeups/CyberTalents/Cryptography)
+  - [Digital Forensic](/ctf-writeups/CyberTalents/Digital_Forensic)
+  - [Malware Reverse Engineering](/ctf-writeups/CyberTalents/Malware_Reverse_Engineering)
+  - [Network Security](/ctf-writeups/CyberTalents/Network_Security)
+  - [Reverse Engineering](/ctf-writeups/CyberTalents/Reverse_Engineering)
+  - [Web Security](/ctf-writeups/CyberTalents/Web_Security)
 <br><br>
 
-- [**OverTheWire Wargames**](/CTF_Writeups/Wargames)
-  - [Bandit](/CTF_Writeups/Wargames/Bandit) 
-  - [Leviathan](/CTF_Writeups/Wargames/Leviathan)
-  - [Natas](/CTF_Writeups/Wargames/Natas)
+- [**OverTheWire Wargames**](/ctf-writeups/Wargames)
+  - [Bandit](/ctf-writeups/Wargames/Bandit) 
+  - [Leviathan](/ctf-writeups/Wargames/Leviathan)
+  - [Natas](/ctf-writeups/Wargames/Natas)
 <br><br>
 
-- [**Crackmes**](/CTF_Writeups/Crackmes)
-  - [Windows](/CTF_Writeups/Crackmes/Windows)
+- [**Crackmes**](/ctf-writeups/Crackmes)
+  - [Windows](/ctf-writeups/Crackmes/Windows)
 
 

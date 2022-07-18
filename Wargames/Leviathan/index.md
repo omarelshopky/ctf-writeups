@@ -34,18 +34,18 @@ Leviathan’s levels are called leviathan0, leviathan1, … etc. and can be acce
 
 Data for the levels can be found in the homedirectories. You can look at /etc/leviathan_pass for the various level passwords.
 
-[Level 0](/CTF_Writeups/Wargames/Leviathan/Level0)
+[Level 0](/ctf-writeups/Wargames/Leviathan/Level0)
 
-[Level 0 --> Level 1](/CTF_Writeups/Wargames/Leviathan/Level0_Level1)
+[Level 0 --> Level 1](/ctf-writeups/Wargames/Leviathan/Level0_Level1)
 
-[Level 1 --> Level 2](/CTF_Writeups/Wargames/Leviathan/Level1_Level2)
+[Level 1 --> Level 2](/ctf-writeups/Wargames/Leviathan/Level1_Level2)
 
-[Level 2 --> Level 3](/CTF_Writeups/Wargames/Leviathan/Level2_Level3)
+[Level 2 --> Level 3](/ctf-writeups/Wargames/Leviathan/Level2_Level3)
 
-[Level 3 --> Level 4](/CTF_Writeups/Wargames/Leviathan/Level3_Level4)
+[Level 3 --> Level 4](/ctf-writeups/Wargames/Leviathan/Level3_Level4)
 
-[Level 4 --> Level 5](/CTF_Writeups/Wargames/Leviathan/Level4_Level5)
+[Level 4 --> Level 5](/ctf-writeups/Wargames/Leviathan/Level4_Level5)
 
-[Level 5 --> Level 6](/CTF_Writeups/Wargames/Leviathan/Level5_Level6)
+[Level 5 --> Level 6](/ctf-writeups/Wargames/Leviathan/Level5_Level6)
 
-[Level 6 --> Level 7](/CTF_Writeups/Wargames/Leviathan/Level6_Level7)
+[Level 6 --> Level 7](/ctf-writeups/Wargames/Leviathan/Level6_Level7)

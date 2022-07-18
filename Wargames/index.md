@@ -5,6 +5,6 @@ ______________________________________________
 <br>
 
 ## Games
-- [Bandit](/CTF_Writeups/Wargames/Bandit) 
-- [Leviathan](/CTF_Writeups/Wargames/Leviathan)
-- [Natas](/CTF_Writeups/Wargames/Natas)
+- [Bandit](/ctf-writeups/Wargames/Bandit) 
+- [Leviathan](/ctf-writeups/Wargames/Leviathan)
+- [Natas](/ctf-writeups/Wargames/Natas)

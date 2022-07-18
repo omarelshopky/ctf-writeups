@@ -5,5 +5,5 @@ ______________________________________________
 <br>
 
 ## Platforms
-- [Windows](/CTF_Writeups/Crackmes/Windows) 
+- [Windows](/ctf-writeups/Crackmes/Windows) 
 

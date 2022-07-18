@@ -7,36 +7,36 @@ Each level of natas consists of its own website located at http://natasX.natas.l
 Each level has access to the password of the next level. Your job is to somehow obtain that next password and level up. All passwords are also stored in /etc/natas_webpass/. E.g. the password for natas5 is stored in the file /etc/natas_webpass/natas5 and only readable by natas4 and natas5.
 
 
-[Level 0](/CTF_Writeups/Wargames/Natas/Level0)
+[Level 0](/ctf-writeups/Wargames/Natas/Level0)
 
-[Level 0 --> Level 1](/CTF_Writeups/Wargames/Natas/Level0_Level1)
+[Level 0 --> Level 1](/ctf-writeups/Wargames/Natas/Level0_Level1)
 
-[Level 1 --> Level 2](/CTF_Writeups/Wargames/Natas/Level1_Level2)
+[Level 1 --> Level 2](/ctf-writeups/Wargames/Natas/Level1_Level2)
 
-[Level 2 --> Level 3](/CTF_Writeups/Wargames/Natas/Level2_Level3)
+[Level 2 --> Level 3](/ctf-writeups/Wargames/Natas/Level2_Level3)
 
-[Level 3 --> Level 4](/CTF_Writeups/Wargames/Natas/Level3_Level4)
+[Level 3 --> Level 4](/ctf-writeups/Wargames/Natas/Level3_Level4)
 
-[Level 4 --> Level 5](/CTF_Writeups/Wargames/Natas/Level4_Level5)
+[Level 4 --> Level 5](/ctf-writeups/Wargames/Natas/Level4_Level5)
 
-[Level 5 --> Level 6](/CTF_Writeups/Wargames/Natas/Level5_Level6)
+[Level 5 --> Level 6](/ctf-writeups/Wargames/Natas/Level5_Level6)
 
-[Level 6 --> Level 7](/CTF_Writeups/Wargames/Natas/Level6_Level7)
+[Level 6 --> Level 7](/ctf-writeups/Wargames/Natas/Level6_Level7)
 
-[Level 7 --> Level 8](/CTF_Writeups/Wargames/Natas/Level7_Level8)
+[Level 7 --> Level 8](/ctf-writeups/Wargames/Natas/Level7_Level8)
 
-[Level 8 --> Level 9](/CTF_Writeups/Wargames/Natas/Level8_Level9)
+[Level 8 --> Level 9](/ctf-writeups/Wargames/Natas/Level8_Level9)
 
-[Level 9 --> Level 10](/CTF_Writeups/Wargames/Natas/Level9_Level10)
+[Level 9 --> Level 10](/ctf-writeups/Wargames/Natas/Level9_Level10)
 
-[Level 10 --> Level 11](/CTF_Writeups/Wargames/Natas/Level10_Level11)
+[Level 10 --> Level 11](/ctf-writeups/Wargames/Natas/Level10_Level11)
 
-[Level 11 --> Level 12](/CTF_Writeups/Wargames/Natas/Level11_Level12)
+[Level 11 --> Level 12](/ctf-writeups/Wargames/Natas/Level11_Level12)
 
-[Level 12 --> Level 13](/CTF_Writeups/Wargames/Natas/Level12_Level13)
+[Level 12 --> Level 13](/ctf-writeups/Wargames/Natas/Level12_Level13)
 
-[Level 13 --> Level 14](/CTF_Writeups/Wargames/Natas/Level13_Level14)
+[Level 13 --> Level 14](/ctf-writeups/Wargames/Natas/Level13_Level14)
 
-[Level 14 --> Level 15](/CTF_Writeups/Wargames/Natas/Level14_Level15)
+[Level 14 --> Level 15](/ctf-writeups/Wargames/Natas/Level14_Level15)
 
-[Level 15 --> Level 16](/CTF_Writeups/Wargames/Natas/Level15_Level16)
+[Level 15 --> Level 16](/ctf-writeups/Wargames/Natas/Level15_Level16)

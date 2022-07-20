@@ -8,9 +8,9 @@ ______________________________________________________
 
 ## Recently Solved
 
-**Site:** [*CyberTalents*](./cybertalents) - *Web Security*
+**Site:** [*CyberTalents*](./cybertalents) - *Secure Coding*
 
-**Name:** [*The Restricted Sessions*](./cybertalents/web-security/the-restricted-sessions)
+**Name:** [*PHPbase*](./cybertalents/secure-coding/phpbase/)
 
 **Date:** *Jul 20, 2022*
 

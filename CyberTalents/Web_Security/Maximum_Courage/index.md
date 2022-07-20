@@ -9,7 +9,7 @@ Max prefers to learn by practicing and not just reading all day, so he set up a 
 
 Link: [http://3.126.138.80/maximum/](http://3.126.138.80/maximum/)
 
-### Answer
+### Solution
 * Use Dirsearch tool to bruteforce directory of 'http://3.126.138.80/maximum/' 
 ```bash
 python3 dirsearch.py -u http://3.126.138.80/maximum/

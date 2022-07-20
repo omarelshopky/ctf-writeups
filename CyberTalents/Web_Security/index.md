@@ -13,6 +13,13 @@
 - [Maximum Courage](/ctf-writeups/CyberTalents/Web_Security/Maximum_Courage)
 - [Newsletter](/ctf-writeups/CyberTalents/Web_Security/Newsletter)
 - [Searching for the cookie](/ctf-writeups/CyberTalents/Web_Security/Searching_for_the_cookie)
-- [The Restricted Sessions](/ctf-writeups/CyberTalents/Web_Security/The_Restricted_Sessions)
 - [This is Sparta](/ctf-writeups/CyberTalents/Web_Security/This_is_Sparta)
 - [Who am i?](/ctf-writeups/CyberTalents/Web_Security/Who_am_i)
+
+### Easy
+
+### Medium
+- [The Restricted Sessions](/ctf-writeups/CyberTalents/Web_Security/the-restricted-sessions)
+
+
+### Hard

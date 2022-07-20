@@ -8,7 +8,7 @@
 I used to hide my data with a classic cypher, can you get the flag hidden inside? gur synt vf 2w68lsudym Vg vf cerggl rnfl gb frr gur synt ohg pna lbh frr vg v gbbx arneyl 1 zvahgr gb rapbqr guvf jvgu EBG13 tbbq yhpx va fbyivat gung
 
 
-### Answer
+### Solution
 * We have an encrypted text want to decrypt it but we don't have the key so we will use brute force to decrypt it
 * Write python script to do that
 ```py

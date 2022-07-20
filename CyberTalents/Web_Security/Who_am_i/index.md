@@ -10,7 +10,7 @@ Do not Start a fight you can not stop it
 
 Link: [http://34.76.107.218/whoami/](http://34.76.107.218/whoami/)
 
-### Answer
+### Solution
 * Open inspect from (ctrl + shift + c) then scroll down ther is an account details
 ```
 			Guest Account:

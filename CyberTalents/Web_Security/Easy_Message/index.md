@@ -9,7 +9,7 @@ I Have a Message for you.
 
 Link: [http://35.240.62.111/easymessage/](http://35.240.62.111/easymessage/)
 
-### Answer
+### Solution
 * Open the [link](http://35.240.62.111/easymessage/) then try to login with:
 ```
 Username: demo

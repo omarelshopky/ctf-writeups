@@ -9,7 +9,7 @@ Just Open the File and Capture the flag . Submission in MD5
 
 Link: [https://s3-eu-west-1.amazonaws.com/talentchallenges/Forensics/G%26P+lists.docx](https://s3-eu-west-1.amazonaws.com/talentchallenges/Forensics/G%26P+lists.docx)
 
-### Answer
+### Solution
 * Download the file and use **file tool** to know its type
 ```sh
 file G\&P+lists.docx

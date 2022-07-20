@@ -10,7 +10,7 @@ The company hired an inexperienced developer, but he told them he hided the data
 
 Link: [http://34.77.37.110//encrypted-database/](http://34.77.37.110//encrypted-database/)
 
-### Answer
+### Solution
 * View Page Source tells us that there are two directories pages/ contain content of the pages and secret-admin/
 * Go to [secret-admin folder](http://34.77.37.110//encrypted-database/secret-admin/) and View Page Source
 * There is hidden input field contain reference to a database

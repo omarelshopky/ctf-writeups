@@ -9,7 +9,7 @@ We cannot identify this suspicious user behavior, but we know he is a big fan of
 
 Link: [https://hubchallenges.s3-eu-west-1.amazonaws.com/Forensics/monaliza.7z](https://hubchallenges.s3-eu-west-1.amazonaws.com/Forensics/monaliza.7z)
 
-### Answer
+### Solution
 * Download the file
 * Unzip it as follow
 ```sh

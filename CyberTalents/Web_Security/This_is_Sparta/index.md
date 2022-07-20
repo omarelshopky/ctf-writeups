@@ -9,7 +9,7 @@ Morning has broken today they're fighting in the shade when arrows blocked the s
 
 Link: [http://35.193.45.56/sparta/](http://35.193.45.56/sparta/)
 
-### Answer
+### Solution
 * Open Inspector (ctrl + shift + c)
 * Scroll down there is script element which is ASCII conveted to Hexa:
 ```html

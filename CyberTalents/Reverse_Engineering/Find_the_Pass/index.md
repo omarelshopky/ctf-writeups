@@ -5,7 +5,7 @@
  [*Find the Pass*](https://cybertalents.com/challenges/malware/Find-the-pass)
 
 ### Challenge Description
-Answer the following Questions :
+Solution the following Questions :
 
 Q1- What is the address of the main function ?
 
@@ -17,7 +17,7 @@ Flag format : flag{Ans1|Ans2|Ans3}
 
 Link: [https://talentchallenges.s3-eu-west-1.amazonaws.com/Reverse/CybertalentDemo0.exe](https://talentchallenges.s3-eu-west-1.amazonaws.com/Reverse/CybertalentDemo0.exe)
 
-### Answer
+### Solution
 * Download the file
 
 * You got the Flag

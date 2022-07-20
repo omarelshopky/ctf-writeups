@@ -5,11 +5,11 @@
  [*Keep it Simple*](https://cybertalents.com/challenges/forensics/keep-it-simple)
  
 ### Challenge Description
-The answer is simple
+The Solution is simple
 
 Link: [http://35.225.187.108/Keep_it_Simple/](http://35.225.187.108/Keep_it_Simple/)
 
-### Answer
+### Solution
 * Open Inspector (ctrl + shift + c)
 * Notice that there are two images with name 'the_eye.jpeg' one in img directory and the other in /www/html/ 
 ```html

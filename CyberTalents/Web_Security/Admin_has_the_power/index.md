@@ -9,7 +9,7 @@ Administrators only has the power to see the flag , can you be one ?
 
 Link: [http://35.193.45.56/adminpower/](http://35.193.45.56/adminpower/)
 
-### Answer
+### Solution
 * Open Inspector (ctrl + shift + c)
 * Open head tag there is details about user
 ```

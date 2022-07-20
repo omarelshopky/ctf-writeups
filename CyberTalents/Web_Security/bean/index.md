@@ -9,7 +9,7 @@ Come back home Mr Bean .
 
 Link: [http://52.28.216.196/bean/](http://52.28.216.196/bean/)
 
-### Answer
+### Solution
 * Use Dirsearch tool to bruteforce directory of 'http://52.28.216.196/bean/' 
 ```bash
 python3 dirsearch.py -u http://52.28.216.196/bean/

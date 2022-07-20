@@ -9,7 +9,7 @@ Blue Inc is a new social media website that's still under construction, However 
 
 Link: [http://35.240.62.111/blue_inc/chal1/](http://35.240.62.111/blue_inc/chal1/)
 
-### Answer
+### Solution
 * Open the [link](http://35.240.62.111/blue_inc/chal1/) and login with:
 ```
 Username: demo

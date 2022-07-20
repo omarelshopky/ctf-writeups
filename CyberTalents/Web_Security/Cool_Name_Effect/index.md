@@ -10,7 +10,7 @@ Webmaster developed a simple script to do cool effects on your name, but his cod
 
 Link: [http://34.77.37.110/cool-effect/](http://34.77.37.110/cool-effect/)
 
-### Answer
+### Solution
 * Try inject javascript code in the textbox
 ```js
 <script>alert()</script>

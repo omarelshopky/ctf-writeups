@@ -9,7 +9,7 @@ we received a message from our agent but we don't know how to use our key to rea
 
 Link: [https://hubchallenges.s3-eu-west-1.amazonaws.com/crypto/RSA101.zip](https://hubchallenges.s3-eu-west-1.amazonaws.com/crypto/RSA101.zip)
 
-### Answer
+### Solution
 * Download the zip file and unzip it
 ```sh
 unzip RSA101.zip

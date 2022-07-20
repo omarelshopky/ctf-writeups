@@ -9,7 +9,7 @@ An image was leaked from a babies store. the manager is so annoyed because he ne
 
 Link: [https://s3-eu-west-1.amazonaws.com/talentchallenges/Forensics/find+the+image.zip](https://s3-eu-west-1.amazonaws.com/talentchallenges/Forensics/find+the+image.zip)
 
-### Answer
+### Solution
 * Download the file
 * Unzip it then use wireshark to analyze the packet
 ```sh

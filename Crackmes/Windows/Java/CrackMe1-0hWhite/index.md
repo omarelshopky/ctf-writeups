@@ -16,7 +16,7 @@ If you've managed to crack the program, feel free to post a comment/solution :)
 Ok, so there's simply just a 8-digit key that you must figure out in order to unlock the program. But, if you have some reverse engineering skills it should be pretty easy to unlock the program without a key ;)
 <br><br>
 
-### Answer
+### Solution
 * Download the [**file**](https://crackmes.one/static/crackme/5f0c333633c5d42a7c6679b1.zip), then extract it with the password 'crackmes.one'
 * Execute the jar file to see its behavior, which shows us its output:
 ```sh

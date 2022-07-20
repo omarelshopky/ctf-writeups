@@ -9,7 +9,7 @@ simple search website we need to know which cookie to eat ;)
 
 Link: [http://34.77.37.110/searching-cookie/](http://34.77.37.110/searching-cookie/)
 
-### Answer
+### Solution
 * Try write "<script>alert(2)</script>" in the textbox nothing will happen
 * Open source code in new tab (ctrl + u)
 ```html

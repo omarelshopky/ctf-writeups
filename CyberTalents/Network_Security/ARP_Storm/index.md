@@ -9,7 +9,7 @@ An attacker in the network is trying to poison the arp table of 11.0.0.100, the 
 
 Link: [https://hubchallenges.s3-eu-west-1.amazonaws.com/Forensics/ARP+Storm.pcap](https://hubchallenges.s3-eu-west-1.amazonaws.com/Forensics/ARP+Storm.pcap)
 
-### Answer
+### Solution
 * Download the file and open it with **wireshark**
 ```sh
 wireshark ARP+Storm.pcap

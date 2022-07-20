@@ -5,13 +5,13 @@ ______________________________________________________
 <br>
 
 ## Recently Solved
-**Site:** *Crackmes*
+**Site:** [*CyberTalents*](/ctf-writeups/CyberTalents)
 
-**Category:** *Windows-Java* 
+**Category:** [*Web Security*](/ctf-writeups/CyberTalents/Web_Security)
 
-**Name:** [*CrackMe1-0hWhite*](/ctf-writeups/Crackmes/Windows/Java/CrackMe1-0hWhite)
+**Name:** [*The Restricted Sessions*](/ctf-writeups/CyberTalents/Web_Security/the-restricted-sessions)
 
-**Date:** *Jan 28, 2022*
+**Date:** *Jul 20, 2022*
 
 ______________________________________________________
 <br>

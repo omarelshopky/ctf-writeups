@@ -9,7 +9,7 @@ the administrator put the backup file in the same root folder as the application
 
 Link: [http://18.192.3.151/newsletter/](http://18.192.3.151/newsletter/)
 
-### Answer
+### Solution
 * Try to inject command in the textbox (notice that he want email in this box)
 ```
 o&pwd&@dark.com

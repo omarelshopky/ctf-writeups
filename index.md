@@ -10,7 +10,7 @@ ______________________________________________________
 
 **Site:** [*CyberTalents*](./cybertalents) - *Secure Coding*
 
-**Name:** [*PHPbase*](./cybertalents/secure-coding/phpbase/)
+**Name:** [*haiku_lover*](./cybertalents/secure-coding/haiku-lover/)
 
 **Date:** *Jul 20, 2022*
 
@@ -22,6 +22,7 @@ ______________________________________________________
 
 - [**CyberTalents**](./cybertalents/)
   - [Web Security](./cybertalents/web-security)
+  - [Secure Coding](./cybertalents/secure-coding/)
   - [Cryptography](./cybertalents/Cryptography)
   - [Digital Forensic](./cybertalents/Digital_Forensic)
   - [Malware Reverse Engineering](./cybertalents/Malware_Reverse_Engineering)

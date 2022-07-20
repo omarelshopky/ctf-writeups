@@ -28,15 +28,14 @@ ______________________________________________________
   - [Network Security](./cybertalents/Network_Security)
   - [Reverse Engineering](./cybertalents/Reverse_Engineering)
   
-<br><br>
+<br>
 
 - [**OverTheWire Wargames**](/ctf-writeups/Wargames)
   - [Bandit](/ctf-writeups/Wargames/Bandit)
   - [Leviathan](/ctf-writeups/Wargames/Leviathan)
   - [Natas](/ctf-writeups/Wargames/Natas)
 
-
-<br><br>
+<br>
 
 - [**Crackmes**](/ctf-writeups/Crackmes)
   - [Windows](/ctf-writeups/Crackmes/Windows)

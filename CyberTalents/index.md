@@ -9,6 +9,7 @@ ______________________________________________
 ## Categories
 
 - [Web Security](./web-security/)
+- [Secure Coding](./secure-coding/)
 - [Cryptography](./Cryptography)
 - [Digital Forensic](./Digital_Forensic)
 - [Malware Reverse Engineering](./Malware_Reverse_Engineering)

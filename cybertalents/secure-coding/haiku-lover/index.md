@@ -8,7 +8,30 @@
 
 Can you fix this vulnerable code?
 
-Link: [http://3.122.227.44:8080/](http://3.122.227.44:8080/)
+## Vulnerable code
+
+```py
+from flask import Flask, request, render_template
+from os import getcwd
+from utils import filter
+app  = Flask(__name__, template_folder='templates')
+
+@app.route('/', methods=['GET'])
+def main():
+ if request.args.get('haiku'):
+  haiku = request.args.get('haiku')
+  haiku = filter(haiku)
+  try:
+   f = open(f'{getcwd()}/haikus/{haiku}', 'r')
+   content = f.read()
+   f.close()
+   return render_template('index.html', haiku=content)
+  except Exception as e:
+   print(str(e))
+   return render_template('index.html', err=str(e))
+ else:
+  return render_template('index.html')
+```
 
 ## Solution
 

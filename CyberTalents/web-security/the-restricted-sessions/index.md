@@ -41,4 +41,4 @@ For the last step set the **UserInfo** cookie with the username you get from the
 
 
 ### The Flag
- > sessionareawesomebutifitsecure 
+ > session*****************secure 
